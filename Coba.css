@@ -1,0 +1,12 @@
+html,body{
+Padding:0px;
+Margin:0px;
+}
+Main{
+height:300px;
+Width:300px;
+Background:azure;
+Display:grid;
+Grid-template-rows: repeat(3,1fr);
+Grid-template-columns:20px auto 10px;
+}
